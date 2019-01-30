@@ -9,15 +9,8 @@ public class deathwheelevent : MonoBehaviour
 
 	private void OnCollisionEnter2D()
 	{
-		throw new System.NotImplementedException();
+		Event.Invoke();
 	}
 
-	() {
-		
 	}
-	
-	
-	void Update () {
-		
-	}
-}
+
