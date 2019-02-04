@@ -1,23 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Events;
 
-public class Animal : MonoBehaviour
-{
-
-	public string Name;
-
-	public Color SkinColor;
-	
-	public UnityEvent Chara;
-
-
-	private void OnCollisionEnter2D()
-	{
-		Chara.Invoke();
-	}
-
+public class Mouse1 : Animal {
+	public Color Tail;
 
 	// Use this for initialization
 	void Start () {
