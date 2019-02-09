@@ -12,19 +12,20 @@
     <session id="-51606382">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="259" />
+          <entry key="cs" value="310" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="259" />
+          <entry key="C#" value="310" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,13 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/deathwheelevent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="75">
               <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="13" />
-              <folding>
-                <marker date="1548870563424" expanded="true" signature="7:45" ph="..." />
-                <marker date="1548870563424" expanded="true" signature="91:184" ph="{...}" />
-                <marker date="1548870563424" expanded="true" signature="156:180" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -89,13 +85,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Mouse1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="195">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
-                <marker date="1549308799050" expanded="false" signature="6:78" ph="..." />
-                <marker date="1549308799050" expanded="true" signature="109:250" ph="{...}" />
-                <marker date="1549308799050" expanded="true" signature="179:186" ph="{...}" />
-                <marker date="1549308799050" expanded="true" signature="241:248" ph="{...}" />
+                <marker date="1549672629602" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549672629602" expanded="true" signature="109:252" ph="{...}" />
+                <marker date="1549672629602" expanded="true" signature="179:186" ph="{...}" />
+                <marker date="1549672629602" expanded="true" signature="240:250" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -158,13 +154,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,11 +209,12 @@
       <workItem from="1548869916891" duration="574000" />
       <workItem from="1549301728335" duration="1890000" />
       <workItem from="1549306970015" duration="1870000" />
+      <workItem from="1549670932864" duration="1365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4334000" />
+    <option name="totallyTimeSpent" value="5699000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -231,7 +228,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -274,6 +271,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/deathwheelevent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Cat1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -284,18 +288,6 @@
             <marker date="1549308262367" expanded="true" signature="161:168" ph="{...}" />
             <marker date="1549308262367" expanded="true" signature="223:292" ph="{...}" />
             <marker date="1549308262367" expanded="true" signature="259:289" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/deathwheelevent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="13" />
-          <folding>
-            <marker date="1548870563424" expanded="true" signature="7:45" ph="..." />
-            <marker date="1548870563424" expanded="true" signature="91:184" ph="{...}" />
-            <marker date="1548870563424" expanded="true" signature="156:180" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -329,13 +321,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Mouse1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state relative-caret-position="195">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
-            <marker date="1549308799050" expanded="false" signature="6:78" ph="..." />
-            <marker date="1549308799050" expanded="true" signature="109:250" ph="{...}" />
-            <marker date="1549308799050" expanded="true" signature="179:186" ph="{...}" />
-            <marker date="1549308799050" expanded="true" signature="241:248" ph="{...}" />
+            <marker date="1549672629602" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549672629602" expanded="true" signature="109:252" ph="{...}" />
+            <marker date="1549672629602" expanded="true" signature="179:186" ph="{...}" />
+            <marker date="1549672629602" expanded="true" signature="240:250" ph="{...}" />
           </folding>
         </state>
       </provider>
