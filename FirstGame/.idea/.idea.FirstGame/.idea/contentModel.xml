@@ -9,9 +9,12 @@
         <e p="AniChara.cs" t="Include" />
         <e p="Animal.cs" t="Include" />
         <e p="Cat1.cs" t="Include" />
+        <e p="ColorData.cs" t="Include" />
         <e p="deathwheelevent.cs" t="Include" />
+        <e p="FloatData.cs" t="Include" />
         <e p="Mouse1.cs" t="Include" />
         <e p="Rabbit1.cs" t="Include" />
+        <e p="SizeData.cs" t="Include" />
       </e>
       <e p="FirstGame.sln" t="IncludeFlat" />
       <e p="Library" t="ExcludeRecursive" />

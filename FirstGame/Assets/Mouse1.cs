@@ -5,7 +5,8 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Experimental.UIElements;
 
-public class Mouse1 : Animal {
+public class Mouse1 : Animal
+{
 	public Color Tail;
 	public int Fur = 10000;
 	public float TailSpeed = 0.4f;
@@ -13,16 +14,14 @@ public class Mouse1 : Animal {
 	public UnityEvent ColorEvent;
 	
 
-	// Use this for initialization
-	void Start ()
-	{
-	
-	}
-	
-	// Update is called once per frame
-	void Update ()
-	{
-		
 
+	// Use this for initialization
+	void Start()
+	{
+		ColorEvent.Invoke();
+
+
+
+		// Update is called once per frame
 	}
 }
