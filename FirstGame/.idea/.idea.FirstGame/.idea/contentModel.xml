@@ -11,6 +11,7 @@
           <e p="Animal.cs" t="Include" />
           <e p="Cat1.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
+          <e p="Condition.cs" t="Include" />
           <e p="deathwheelevent.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="HealthBase.cs" t="Include" />
@@ -25,7 +26,9 @@
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
     </e>
   </component>
 </project>
