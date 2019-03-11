@@ -23,6 +23,7 @@
           <e p="Rabbit1.cs" t="Include" />
           <e p="ReturnFunctions.cs" t="Include" />
           <e p="SizeData.cs" t="Include" />
+          <e p="UpdateBar.cs" t="Include" />
         </e>
       </e>
       <e p="FirstGame.sln" t="IncludeFlat" />
