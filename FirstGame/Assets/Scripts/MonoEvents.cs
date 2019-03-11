@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 
 public class MonoEvents : MonoBehaviour {
-	public UnityEvent StartEvent, KeyDownEvent, MouseDownEvent, UpdateEvent;
+	public UnityEvent StartEvent, KeyDownEvent, MouseDownEvent, UpdateEvent, TriggerEnterEvent;
 	// Use this for initialization
 	public void start() {
 		
@@ -29,4 +29,12 @@ public class MonoEvents : MonoBehaviour {
 	public void Update () {
 		UpdateEvent.Invoke();
 	}
-}
+
+
+	private void OnTriggerEnter(Collider other)
+	{
+		TriggerEnterEvent.Invoke();
+	}
+	}
+
+
