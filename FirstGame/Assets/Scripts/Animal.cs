@@ -5,6 +5,7 @@ using UnityEngine.Events;
 
 public class Animal : MonoBehaviour
 {
+	public UnityEvent Event;
 
 	public string Name;
 
@@ -16,7 +17,12 @@ public class Animal : MonoBehaviour
 	public Color SkinChange;
 	
 	public UnityEvent Chara;
+	protected Color newColor;
 
+	public void Move()
+	{
+		print("Move");
+	}
 
 	private void OnCollisionEnter2D()
 	{
@@ -25,12 +31,12 @@ public class Animal : MonoBehaviour
 
 
 	// Use this for initialization
-	void Start () {
+	private void Start () {
 		
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	private void Update () {
 		
 	}
 }

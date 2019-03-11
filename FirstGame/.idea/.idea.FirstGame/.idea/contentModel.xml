@@ -21,6 +21,7 @@
           <e p="MoveBitchMove.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
           <e p="Rabbit1.cs" t="Include" />
+          <e p="ReturnFunctions.cs" t="Include" />
           <e p="SizeData.cs" t="Include" />
         </e>
       </e>
