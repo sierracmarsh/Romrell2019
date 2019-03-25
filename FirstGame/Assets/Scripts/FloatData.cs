@@ -20,7 +20,7 @@ public class FloatData : ScriptableObject
 
     public void UpdateValue(FloatData dataObj)
     {
-        Value += dataObj.Value;
+        Value -= dataObj.Value;
     }
 
 }

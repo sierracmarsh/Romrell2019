@@ -25,7 +25,7 @@ public class ReturnFunctions : MonoBehaviour
 
 	public Vector3 Move()
 	{
-		position.y Input.GetAxis("Horizontal");
+		position.y = Input.GetAxis("Horizontal");
 		Controller.Move(position);
 		return position;
 	}

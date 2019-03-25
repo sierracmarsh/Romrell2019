@@ -23,7 +23,7 @@ public class MoveBitchMove : MonoBehaviour
 
 	void Update()
 	{
-		if (controller.isGrounded)
+		if (CharacterController.isGrounded)
 		{
 			OnGrounded.Invoke();
 		}
