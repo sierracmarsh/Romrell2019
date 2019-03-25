@@ -12,7 +12,7 @@
     <session id="-51606382">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="2" />
@@ -259,7 +259,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1031" />
+    <option name="x" value="4" />
     <option name="width" value="913" />
     <option name="height" value="1047" />
   </component>
@@ -336,12 +336,12 @@
       <workItem from="1552174959309" duration="857000" />
       <workItem from="1552316973905" duration="1793000" />
       <workItem from="1552318797037" duration="1433000" />
-      <workItem from="1552321697815" duration="3108000" />
+      <workItem from="1552321697815" duration="3304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35200000" />
+    <option name="totallyTimeSpent" value="35396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,8 +353,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1031" y="0" width="913" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="4" y="0" width="913" height="1047" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13481829" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
