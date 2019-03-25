@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 915c7926e21288844bc4d1cd0cd42b00, type: 3}
   m_Name: FriendTap
   m_EditorClassIdentifier: 
-  Value: 5
+  Value: 1

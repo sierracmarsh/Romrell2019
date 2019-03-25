@@ -12,7 +12,7 @@
     <session id="-51606382">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="3" />
@@ -89,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveBitchMove.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="360">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
               <folding>
                 <marker date="1553532131475" expanded="false" signature="6:104" ph="..." />
                 <marker date="1553532131475" expanded="true" signature="149:988" ph="{...}" />
@@ -103,21 +103,6 @@
                 <marker date="1553532131475" expanded="true" signature="515:548" ph="{...}" />
                 <marker date="1553532131475" expanded="true" signature="605:655" ph="{...}" />
                 <marker date="1553532131475" expanded="true" signature="660:881" ph="/* if (Input.GetAxis(&quot;Vertical&quot;) &gt; 0 || Input.GetAxis(&quot;Vertical&quot;) &lt; 0) ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AniChara.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <marker date="1549907938355" expanded="false" signature="6:104" ph="..." />
-                <marker date="1549907938355" expanded="true" signature="136:300" ph="{...}" />
-                <marker date="1549907938355" expanded="true" signature="213:236" ph="{...}" />
-                <marker date="1549907938355" expanded="true" signature="291:298" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -156,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collection.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <marker date="1553532785131" expanded="false" signature="6:78" ph="..." />
                 <marker date="1553532785131" expanded="true" signature="140:305" ph="{...}" />
@@ -223,7 +208,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FunctionsWithParams.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateBar.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AniChara.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collection.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -251,11 +235,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Animal.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UpdateBar.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ReturnFunctions.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoveBitchMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FuntctionsWithParams.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FunctionsWithParams.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveBitchMove.cs" />
       </list>
     </option>
   </component>
@@ -344,12 +328,12 @@
       <workItem from="1552316973905" duration="1793000" />
       <workItem from="1552318797037" duration="1433000" />
       <workItem from="1552321697815" duration="3304000" />
-      <workItem from="1553522412936" duration="2653000" />
+      <workItem from="1553522412936" duration="2713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38049000" />
+    <option name="totallyTimeSpent" value="38109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,8 +345,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="946" y="0" width="913" height="1045" extended-state="1" />
-    <editor active="true" />
+    <frame x="946" y="0" width="913" height="1045" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13716295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -404,6 +387,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/MoveBitchMove.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/MoveBitchMove.cs" initialLine="24">
+            <startOffsets>
+              <option value="437" />
+            </startOffsets>
+            <endOffsets>
+              <option value="438" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -512,36 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveBitchMove.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <marker date="1553532131475" expanded="false" signature="6:104" ph="..." />
-            <marker date="1553532131475" expanded="true" signature="149:988" ph="{...}" />
-            <marker date="1553532131475" expanded="true" signature="360:418" ph="{...}" />
-            <marker date="1553532131475" expanded="true" signature="435:986" ph="{...}" />
-            <marker date="1553532131475" expanded="true" signature="476:508" ph="{...}" />
-            <marker date="1553532131475" expanded="true" signature="515:548" ph="{...}" />
-            <marker date="1553532131475" expanded="true" signature="605:655" ph="{...}" />
-            <marker date="1553532131475" expanded="true" signature="660:881" ph="/* if (Input.GetAxis(&quot;Vertical&quot;) &gt; 0 || Input.GetAxis(&quot;Vertical&quot;) &lt; 0) ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AniChara.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <marker date="1549907938355" expanded="false" signature="6:104" ph="..." />
-            <marker date="1549907938355" expanded="true" signature="136:300" ph="{...}" />
-            <marker date="1549907938355" expanded="true" signature="213:236" ph="{...}" />
-            <marker date="1549907938355" expanded="true" signature="291:298" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Condition.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -608,11 +574,35 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collection.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <marker date="1553532785131" expanded="false" signature="6:78" ph="..." />
             <marker date="1553532785131" expanded="true" signature="140:305" ph="{...}" />
             <marker date="1553532785131" expanded="true" signature="228:273" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AniChara.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveBitchMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <marker date="1553532131475" expanded="false" signature="6:104" ph="..." />
+            <marker date="1553532131475" expanded="true" signature="149:988" ph="{...}" />
+            <marker date="1553532131475" expanded="true" signature="360:418" ph="{...}" />
+            <marker date="1553532131475" expanded="true" signature="435:986" ph="{...}" />
+            <marker date="1553532131475" expanded="true" signature="476:508" ph="{...}" />
+            <marker date="1553532131475" expanded="true" signature="515:548" ph="{...}" />
+            <marker date="1553532131475" expanded="true" signature="605:655" ph="{...}" />
+            <marker date="1553532131475" expanded="true" signature="660:881" ph="/* if (Input.GetAxis(&quot;Vertical&quot;) &gt; 0 || Input.GetAxis(&quot;Vertical&quot;) &lt; 0) ... */" />
           </folding>
         </state>
       </provider>

@@ -7,7 +7,6 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="AniChara.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="Cat1.cs" t="Include" />
           <e p="Collection.cs" t="Include" />
