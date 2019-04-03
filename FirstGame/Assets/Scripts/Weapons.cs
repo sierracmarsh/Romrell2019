@@ -1,6 +1,8 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Weapons : MonoBehaviour {
 	public UnityEvent FiringEvent, PowerFireEvent, EmptyAmmoEvent;
@@ -22,13 +24,13 @@ public class Weapons : MonoBehaviour {
 	{
 		switch (CurrentState)
 		{
-			case States.Starting:
+			case States.Firing:
 				FiringEvent.Invoke();
 				break;
-			case States.Playing:
+			case States.PowerFire:
 				PowerFireEvent.Invoke();
 				break;
-			case States.Dying:
+			case States.EmptyAmmo:
 				EmptyAmmoEvent.Invoke();
 				break;
 			
