@@ -9,7 +9,7 @@ public class MoveBitchMove : MonoBehaviour
 	public UnityEvent OnGrounded, OffGrounded;
 	public int Speed = 5;
 	public float Gravity = 10f;
-	public float JumpForce = 5;
+	public float JumpForce = 2f;
 
 	public CharacterController controller;
 	private Vector3 position;

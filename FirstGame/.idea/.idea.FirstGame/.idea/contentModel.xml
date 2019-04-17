@@ -27,6 +27,7 @@
           <e p="PowerUpBase.cs" t="Include" />
           <e p="Rabbit1.cs" t="Include" />
           <e p="ReturnFunctions.cs" t="Include" />
+          <e p="RunAnims.cs" t="Include" />
           <e p="SizeData.cs" t="Include" />
           <e p="StateMachine.cs" t="Include" />
           <e p="Switches.cs" t="Include" />
