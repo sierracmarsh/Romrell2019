@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="BarChange.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="MainCharacterMisc.cs" t="Include" />

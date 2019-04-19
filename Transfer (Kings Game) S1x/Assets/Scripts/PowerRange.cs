@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PowerRange : MonoBehaviour
-{
+
+
 
 	[CreateAssetMenu]
-	public class PowerUpBase : ScriptableObject
+	public class PowerRange : ScriptableObject
 	{
 		public float Value = -3f;
 
@@ -16,4 +16,4 @@ public class PowerRange : MonoBehaviour
 			Value += addValue;
 		}
 	}
-}
+

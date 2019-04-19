@@ -20,22 +20,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1300" />
+          <entry key="cs" value="1312" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1300" />
+          <entry key="C#" value="1312" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="13" />
+          <entry key="cs" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="13" />
+          <entry key="C#" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -109,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <marker date="1555692118691" expanded="false" signature="6:78" ph="..." />
                 <marker date="1555692118691" expanded="true" signature="143:432" ph="{...}" />
@@ -121,15 +121,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerRange.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1555693684755" expanded="true" signature="6:78" ph="..." />
+                <marker date="1555693684755" expanded="true" signature="145:251" ph="{...}" />
+                <marker date="1555693684755" expanded="true" signature="218:248" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BarChange.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1555692620767" expanded="false" signature="6:78" ph="..." />
-                <marker date="1555692620767" expanded="true" signature="120:241" ph="{...}" />
-                <marker date="1555692620767" expanded="true" signature="170:177" ph="{...}" />
-                <marker date="1555692620767" expanded="true" signature="232:239" ph="{...}" />
+                <marker date="1555693827232" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555693827232" expanded="true" signature="119:240" ph="{...}" />
+                <marker date="1555693827232" expanded="true" signature="169:176" ph="{...}" />
+                <marker date="1555693827232" expanded="true" signature="231:238" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -141,12 +155,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BarChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacterMisc.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerRange.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,6 +180,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainCharacterMisc.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PowerRange.cs" />
       </list>
     </option>
   </component>
@@ -246,12 +262,12 @@
       <workItem from="1555520502108" duration="177000" />
       <workItem from="1555521230572" duration="126000" />
       <workItem from="1555521363032" duration="2876000" />
-      <workItem from="1555684930807" duration="7331000" />
+      <workItem from="1555684930807" duration="8368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12022000" />
+    <option name="totallyTimeSpent" value="13059000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,7 +423,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <marker date="1555692118691" expanded="false" signature="6:78" ph="..." />
             <marker date="1555692118691" expanded="true" signature="143:432" ph="{...}" />
@@ -420,12 +436,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerRange.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1555693684755" expanded="true" signature="6:78" ph="..." />
+            <marker date="1555693684755" expanded="true" signature="145:251" ph="{...}" />
+            <marker date="1555693684755" expanded="true" signature="218:248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BarChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1555692620767" expanded="false" signature="6:78" ph="..." />
-            <marker date="1555692620767" expanded="true" signature="120:241" ph="{...}" />
-            <marker date="1555692620767" expanded="true" signature="170:177" ph="{...}" />
-            <marker date="1555692620767" expanded="true" signature="232:239" ph="{...}" />
+            <marker date="1555693827232" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555693827232" expanded="true" signature="119:240" ph="{...}" />
+            <marker date="1555693827232" expanded="true" signature="169:176" ph="{...}" />
+            <marker date="1555693827232" expanded="true" signature="231:238" ph="{...}" />
           </folding>
         </state>
       </provider>

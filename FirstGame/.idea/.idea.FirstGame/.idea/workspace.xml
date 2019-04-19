@@ -46,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="105">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
                 <marker date="1550685346395" expanded="true" signature="6:78" ph="..." />
                 <marker date="1550685346395" expanded="true" signature="140:262" ph="{...}" />
@@ -115,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -363,12 +363,12 @@
       <workItem from="1554913225813" duration="2195000" />
       <workItem from="1555513335219" duration="1512000" />
       <workItem from="1555518465113" duration="5896000" />
-      <workItem from="1555684906883" duration="5491000" />
+      <workItem from="1555684906883" duration="6376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63735000" />
+    <option name="totallyTimeSpent" value="64620000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -672,18 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-          <folding>
-            <marker date="1550685346395" expanded="true" signature="6:78" ph="..." />
-            <marker date="1550685346395" expanded="true" signature="140:262" ph="{...}" />
-            <marker date="1550685346395" expanded="true" signature="221:260" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -747,6 +735,18 @@
             <marker date="1553532419546" expanded="true" signature="207:285" ph="{...}" />
             <marker date="1553532419546" expanded="true" signature="332:373" ph="{...}" />
             <marker date="1553532419546" expanded="true" signature="421:465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <marker date="1550685346395" expanded="true" signature="6:78" ph="..." />
+            <marker date="1550685346395" expanded="true" signature="140:262" ph="{...}" />
+            <marker date="1550685346395" expanded="true" signature="221:260" ph="{...}" />
           </folding>
         </state>
       </provider>
