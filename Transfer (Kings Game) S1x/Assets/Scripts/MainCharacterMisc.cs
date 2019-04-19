@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class Animal : MonoBehaviour
-{
+public class MainCharacterMisc : MonoBehaviour {
 	public UnityEvent Event;
 
 	public string Name;
@@ -28,6 +27,4 @@ public class Animal : MonoBehaviour
 		Chara.Invoke();
 	}
 
-
-	
 }
