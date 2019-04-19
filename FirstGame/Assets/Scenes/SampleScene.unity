@@ -13787,7 +13787,7 @@ MonoBehaviour:
   Speed: 3
   Gravity: 3
   JumpForce: 30
-  controller: {fileID: 0}
+  controller: {fileID: 2112227529}
 --- !u!143 &2112227529
 CharacterController:
   m_ObjectHideFlags: 0

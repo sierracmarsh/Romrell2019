@@ -12,7 +12,7 @@
     <session id="1207099673">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="8" />
@@ -20,12 +20,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="316" />
+          <entry key="cs" value="331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="316" />
+          <entry key="C#" value="331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -45,13 +45,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainMove.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            <state relative-caret-position="330">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
-                <marker date="1555524807008" expanded="true" signature="6:78" ph="..." />
-                <marker date="1555524807008" expanded="true" signature="346:431" ph="{...}" />
-                <marker date="1555524807008" expanded="true" signature="451:981" ph="{...}" />
-                <marker date="1555524807008" expanded="true" signature="497:865" ph="{...}" />
+                <marker date="1555524952115" expanded="true" signature="6:78" ph="..." />
+                <marker date="1555524952115" expanded="true" signature="117:953" ph="{...}" />
+                <marker date="1555524952115" expanded="true" signature="338:408" ph="{...}" />
+                <marker date="1555524952115" expanded="true" signature="427:951" ph="{...}" />
+                <marker date="1555524952115" expanded="true" signature="469:834" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -153,12 +154,12 @@
       <workItem from="1555520436743" duration="31000" />
       <workItem from="1555520502108" duration="177000" />
       <workItem from="1555521230572" duration="126000" />
-      <workItem from="1555521363032" duration="2633000" />
+      <workItem from="1555521363032" duration="2876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4448000" />
+    <option name="totallyTimeSpent" value="4691000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -223,13 +224,14 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainMove.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
-            <marker date="1555524807008" expanded="true" signature="6:78" ph="..." />
-            <marker date="1555524807008" expanded="true" signature="346:431" ph="{...}" />
-            <marker date="1555524807008" expanded="true" signature="451:981" ph="{...}" />
-            <marker date="1555524807008" expanded="true" signature="497:865" ph="{...}" />
+            <marker date="1555524952115" expanded="true" signature="6:78" ph="..." />
+            <marker date="1555524952115" expanded="true" signature="117:953" ph="{...}" />
+            <marker date="1555524952115" expanded="true" signature="338:408" ph="{...}" />
+            <marker date="1555524952115" expanded="true" signature="427:951" ph="{...}" />
+            <marker date="1555524952115" expanded="true" signature="469:834" ph="{...}" />
           </folding>
         </state>
       </provider>
