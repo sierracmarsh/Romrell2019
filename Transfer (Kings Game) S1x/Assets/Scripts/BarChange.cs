@@ -6,18 +6,18 @@ using UnityEngine.UI;
 
 public class BarChange : MonoBehaviour
 {
-	private Image BarImage;
+	private Image HealthBar;
 	public FloatData FillNumber;
 
 	// Use this for initialization
 	void Start ()
 	{
-		BarImage = GetComponent<Image>();
+		HealthBar = GetComponent<Image>();
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-		BarImage.fillAmount = FillNumber.Value;
+		HealthBar.fillAmount = FillNumber.Value;
 	}
 }

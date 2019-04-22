@@ -15,6 +15,8 @@ using UnityEngine;
 			set { this.value = value; }
 		}
 
+		public string tag { get; set; }
+
 		public void UpdateValue(float floatInput)
 		{
 			Value += floatInput;

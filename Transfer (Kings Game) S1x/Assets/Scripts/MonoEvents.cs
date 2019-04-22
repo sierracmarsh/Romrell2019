@@ -38,6 +38,8 @@ public class MonoEvents : MonoBehaviour {
 	{
 		TriggerEnterEvent.Invoke();
 	}
+	
+	
 
 	private void OnCollisionEnter(Collision other)
 	{
