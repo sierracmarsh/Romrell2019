@@ -16,11 +16,13 @@
           <e p="Forces.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="HealthP.cs" t="Include" />
+          <e p="Liar.cs" t="Include" />
           <e p="MainCharacterMisc.cs" t="Include" />
           <e p="MainMove.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="PowerRange.cs" t="Include" />
+          <e p="Sunset.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
