@@ -6,17 +6,21 @@
     <e p="C:\Users\10617333\Desktop\Kraken\Romrell2019\Transfer (Kings Game) S1x" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="DeAmmo.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="BarChange.cs" t="Include" />
           <e p="Collections.cs" t="Include" />
+          <e p="Death.cs" t="Include" />
           <e p="DeathWheelEvent.cs" t="Include" />
           <e p="EnemyUIMove.cs" t="Include" />
           <e p="Flip.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Forces.cs" t="Include" />
           <e p="GroundFall.cs" t="Include" />
+          <e p="GroundTrap.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="HealthP.cs" t="Include" />
+          <e p="KillObject.cs" t="Include" />
           <e p="Liar.cs" t="Include" />
           <e p="MainCharacterMisc.cs" t="Include" />
           <e p="MainMove.cs" t="Include" />
@@ -25,6 +29,8 @@
           <e p="PowerRange.cs" t="Include" />
           <e p="Return.cs" t="Include" />
           <e p="Sunset.cs" t="Include" />
+          <e p="SwitchEvent.cs" t="Include" />
+          <e p="WandAmmo.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
